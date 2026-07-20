@@ -55,8 +55,6 @@ Citation will be added after publication.
 
 ---
 
----
-
 ## Contact
 
 For questions regarding this project, please contact:
