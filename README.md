@@ -2,7 +2,7 @@
 
 **SoleSense: A Shoe-Based Wearable for Sound Event Localization and Detection in Urban Environments**
 
-This repository contains the implementation and hardware resources for **SoleSense**, a shoe-based wearable sensing platform that enables sound event detection and sound source localization using microphones embedded in the shoe sole.
+This repository contains the implementation and hardware resources for **SoleSense**, a shoe-based platform with microphone arrays attached to the soles of both shoes, for sound event localization and detection (SELD).
 
 <!-- This work has been accepted by the **Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026**. -->
 
