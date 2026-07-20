@@ -17,10 +17,8 @@ This repository is organized into two major components.
 This directory contains the hardware implementation of SoleSense, including:
 
 - Hardware overview
-- System architecture
 - Hardware photos
 - Firmware
-- Hardware documentation
 
 ### 2. SoleFormer (`soleformer/`)
 
