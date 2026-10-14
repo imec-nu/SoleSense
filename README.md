@@ -72,8 +72,8 @@ keywords = {Sound Event Localization, Acoustic Sensing, Wearable Computing}
 
 For questions regarding this project, please contact:
 
-Will be added after publication.
+<!--Will be added after publication. -->
 
-<!-- **Junxi Xia**  
+ **Junxi Xia**  
 Northwestern University  
-📧 junxixia2024@u.northwestern.edu -->
+📧 junxixia2024@u.northwestern.edu 
