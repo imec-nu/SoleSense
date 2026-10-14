@@ -48,7 +48,22 @@ The system supports:
 If you find this work useful in your research, please cite:
 
 ```bibtex
-Citation will be added after publication.
+@article{10.1145/3832018,
+author = {Xia, Junxi and Sui, Yueyuan and Yang, Weisi and Xu, Hongjun and Zhang, Yiting and Xia, Stephen},
+title = {SoleSense: A Shoe-Based Wearable for Sound Event Localization and Detection in Urban Environments},
+year = {2026},
+issue_date = {September 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {10},
+number = {3},
+url = {https://doi.org/10.1145/3832018},
+doi = {10.1145/3832018},
+month = sep,
+articleno = {171},
+numpages = {35},
+keywords = {Sound Event Localization, Acoustic Sensing, Wearable Computing}
+}
 ```
 
 ---
